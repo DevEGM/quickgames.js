@@ -1,7 +1,9 @@
-# quickgames
+# quickgames.js
 - __Made For Discord bots which use Discord.js__
 - **Make Sure To Install quickmongo/quick.db [quick.db](https://www.npmjs.com/package/quick.db) [quickmongo](https://www.npmjs.com/package/quickmongo) Before Using Package!**
 - Report Bugs, Errors, Problems In [Support Server](https://discord.gg/devs)
+- Install with ``npm i quickgames.js``
+- NPM [Click Me](https://www.npmjs.com/package/quickgames.js)
 
 ## Usage 📕
 ### quick.db
@@ -15,7 +17,7 @@ client.on('ready', () => {
 })
 
 
-const quickgames = require('quickgames');
+const quickgames = require('quickgames.js');
 client.on('message', async message => {
 if(!message.guild) return;
 if(message.content.toLowerCase().startsWith('speed')) {
@@ -79,7 +81,7 @@ client.on('ready', () => {
 })
 
 
-const {Mongo} = require('quickgames');
+const {Mongo} = require('quickgames.js');
 const quickgames = new Mongo("mongo-uri-here") // your mongo uri
 client.on('message', async message => {
 if(!message.guild) return;
@@ -132,7 +134,7 @@ client.on('message',  async message => {
   }
 })
 ```
-## Why quickgames
+## Why quickgames.js
 - Fast and easy to use
 - Note : This Package Is Using [Quick.db](https://www.npmjs.com/package/quick.db) [QuickMongo](https://www.npmjs.com/package/quickmongo) (Database)
 - This Package Is Made With 💖 By Mahmoud.#8617
