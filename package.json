@@ -1,5 +1,5 @@
 {
-  "name": "quickgames",
+  "name": "quickgames.js",
   "version": "1.0.0",
   "description": "Simple package to make a games for ur bot based on ez-games.js",
   "main": "./quickgames.js",
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/EG-M/quickgames.git"
+    "url": "git+https://github.com/EG-M/quickgames.js.git"
   },
   "keywords": [
     "games",
@@ -21,9 +21,9 @@
   "author": "EGM - https://eg-m.github.io",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/EG-M/quickgames/issues"
+    "url": "https://github.com/EG-M/quickgames.js/issues"
   },
-  "homepage": "https://github.com/EG-M/quickgames#readme",
+  "homepage": "https://github.com/EG-M/quickgames.js#readme",
   "dependencies": {
     "discord.js": "^12.5.1",
     "nodemon": "^2.0.6",
