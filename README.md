@@ -1,6 +1,6 @@
 # quickgames.js
 - __Made For Discord bots which use Discord.js__
-- **If you want to support me join my discord server [My Server](https://discord.gg/VXrcEtJQPc)
+- **If you want to support me join my discord server [My Server](https://discord.gg/VXrcEtJQPc)**
 - **Make Sure To Install quickmongo/quick.db [quick.db](https://www.npmjs.com/package/quick.db) [quickmongo](https://www.npmjs.com/package/quickmongo) Before Using Package!**
 - Report Bugs, Errors, Problems In [Support Server](https://discord.gg/devs)
 - Install with ``npm i quickgames.js``
